@@ -19,7 +19,9 @@
 <br>
 <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daneng4&show_icons=true&theme=tokyonight)
+ <p>🏆 Baekjoon solved rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daneng4)](https://solved.ac/daneng4)
   <br>
   <br>
   

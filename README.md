@@ -14,10 +14,7 @@
 
 <br>
 <br>
-[![daneng4](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
-<br>
-<br>
   
  <p>🏆 Baekjoon solved rank 🏆</p>
 	

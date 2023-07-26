@@ -14,8 +14,10 @@
 
 <br>
 <br>
-
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneng4&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=daneng4&show_icons=true">
+  <br>
+  <br>
  <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daneng4)](https://solved.ac/daneng4)

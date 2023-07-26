@@ -3,7 +3,8 @@
 
   ### Hi this is EunSeoKim's Git👋
 
-  ## Languages
+  ### Languages
+  
   <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
 

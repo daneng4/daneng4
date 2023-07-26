@@ -3,7 +3,7 @@
 
   ### Hi this is EunSeoKim's Git👋
 
-  <img src="https://img.shields.io/badge/python-green?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=white"/>
 
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daneng4&show_icons=true&theme=tokyonight)

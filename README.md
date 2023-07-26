@@ -1,5 +1,6 @@
 <div align = "center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=EunSeoKim's Git%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Git%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
 </div>
 
 <br><br>

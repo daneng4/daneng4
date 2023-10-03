@@ -16,7 +16,7 @@
 ### 📚 Used at least Once  📚
 
   <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ApacheTomcat-3776AB?style=for-the-badge&logo=Apache&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache-Tomcat-3776AB?style=for-the-badge&logo=ApacheTomcat&logoColor=white"> 
 
 <br>
 <br>

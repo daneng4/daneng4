@@ -5,21 +5,22 @@
 <br><br>
   ### Hi this is EunSeoKim's Git👋
 
-  ### 📚 Languages 📚
+  ### 📚 Tech Stacks 📚
   <br>
    
   <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
-   
+
+  <br>	
+
+### 📚 Used at least Once  📚
+
+  <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ApacheTomcat-3776AB?style=for-the-badge&logo=Apache&logoColor=white"> 
 
 <br>
-
-### Used Tools
-
-
-
 <br>
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneng4&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=daneng4&show_icons=true">
   <br>

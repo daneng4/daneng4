@@ -13,19 +13,19 @@
 
 ### 📚 Used at least Once  📚
 
-  <img src="https://img.shields.io/badge/c-11a1a1?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-a644c8?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c-green?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-green?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/kotlin-77d411?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/swift-dd11AB?style=for-the-badge&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/ApacheTomcat-cc76AB?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ApacheTomcat-yellow?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/ApacheSolr-bb24ca?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ElasticSearch-11ddca?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ElasticSearch-blue?style=for-the-badge&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/mysql-1111AB?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/MariaDB-22ccAB?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Firebase-33aaAB?style=for-the-badge&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Flask-44ddAB?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logoColor=white"> 
+	<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logoColor=white"> 
 
   
 

@@ -6,7 +6,7 @@
 
   ### 📚 Tech Stacks 📚
    
-  <img src="https://img.shields.io/badge/Python-a244b1?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-d1j2v4?style=for-the-badge&logoColor=white"> 
 
   <br>	
@@ -15,12 +15,12 @@
 
   <img src="https://img.shields.io/badge/c-green?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-green?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-77d411?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/swift-dd11AB?style=for-the-badge&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/ApacheTomcat-yellow?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ApacheSolr-bb24ca?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ElasticSearch-blue?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache_Tomcat-yellow?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache_Solr-bb24ca?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Elastic_Search-blue?style=for-the-badge&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/mysql-1111AB?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/MariaDB-22ccAB?style=for-the-badge&logoColor=white"> 

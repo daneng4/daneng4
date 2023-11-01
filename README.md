@@ -47,7 +47,7 @@
 
  2023.07.07 한국지식정보기술학회 융복합 우수 논문 수상 - MurerBot
  <br>
- [MURERBOT 구조 설명 및 향후 활용 방안.pdf] 
+[MURERBOT.pdf](https://github.com/daneng4/daneng4/files/13226541/MURERBOT.pdf) 
 <br>
 
  2023.09.26 한성대학교 공학경진대회 작품부문 동상 수상 - MurerBot

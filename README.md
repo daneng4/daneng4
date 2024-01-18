@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logoColor=white"> 
 
-  
+### 📚 Interest and Studying.. 📚
+  I'm interested in backend develop and Studying Spring
 
 <br>
 </div>

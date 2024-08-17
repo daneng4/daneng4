@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "left">
 	
 <br><br>
   ## Hi this is EunSeoKim's Git👋
@@ -27,12 +27,17 @@
   <img src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logoColor=white"> 
 	<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logoColor=white"> 
 
-### 📚 Interest and Studying.. 📚
-  I'm interested in backend develop and Studying Spring
+### 📚 Study In 📚
+  **HSU CSE** <br>
+  2018.03 ~ 2025.02
+
+
+  **Digital Hanaro - development of financial services Track** <br>
+  2024.08 ~ 2025.02
 
 <br>
 </div>
-<div align = "center">
+<div align = "left">
 	
 ### 🏆 My Gits & BaekJoon Solved🏆	
 
@@ -42,7 +47,7 @@
   
   <br>
 </div>
-<div align = "center">
+<div align = "left">
 	
 ### 🏆 Awards 🏆
 

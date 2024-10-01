@@ -4,33 +4,9 @@
   ## Hi this is EunSeoKim's Git👋
 <br>
 
-  ### 📚 Tech Stacks 📚
-   
-  <img src="https://img.shields.io/badge/Python-orange?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Java-d1j2v4?style=for-the-badge&logoColor=white"> 
-
-  <br>	
-
-### 📚 Used at least Once  📚
-
-  <img src="https://img.shields.io/badge/c-green?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/c++-green?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/swift-dd11AB?style=for-the-badge&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-yellow?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Apache_Solr-bb24ca?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Elastic_Search-blue?style=for-the-badge&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/mysql-1111AB?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/MariaDB-22ccAB?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logoColor=white"> 
-	<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logoColor=white"> 
-
 ### 📚 Study In 📚
   **HSU CSE** <br>
   2018.03 ~ 2025.02
-
 
   **Digital Hanaro - development of financial services Track** <br>
   2024.08 ~ 2025.02

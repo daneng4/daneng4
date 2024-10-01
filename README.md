@@ -37,7 +37,7 @@
 
 <br>
 </div>
-<div align = "left">
+<div align = "center">
 	
 ### 🏆 My Gits & BaekJoon Solved🏆	
 
@@ -47,7 +47,7 @@
   
   <br>
 </div>
-<div align = "left">
+<div align = "center">
 	
 ### 🏆 Awards 🏆
 

@@ -1,4 +1,4 @@
-<div align = "left">
+<div align = "center">
 	
 <br><br>
   ## Hi this is EunSeoKim's Git👋

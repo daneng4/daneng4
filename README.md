@@ -31,8 +31,9 @@
  <br>
 [MURERBOT 구조 설명 및 향후 활용 방안.pdf](https://github.com/daneng4/daneng4/files/13226541/MURERBOT.pdf) 
 <br>
-
+<br>
  2023.09.26 한성대학교 공학경진대회 작품부문 동상 수상 - MurerBot
+<br>
 <br>
 2024.12.30 디지털하나로 우수프로젝트상 종합 1위 - dIA
 

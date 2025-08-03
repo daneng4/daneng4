@@ -1,18 +1,17 @@
-### 📚 Study In 📚
-  **HSU CSE** <br>
-  2018.03 ~ 2025.02
+### 📚 학력 📚
+  **한성대학교** <br>
+  컴퓨터 공학과 졸업 (2018.03 ~ 2025.02) <br>
 
-  **Digital Hanaro - development of financial services Track** <br>
-  2024.08 ~ 2025.02
+### 🎲 활동 🎲
+  **Digital Hanaro** <br>
+  금융 서비스 개발 과정 (2024.08 ~ 2025.02) <br>
+  **최우수** 수료 <br>
 
-<br>
-</div>
-	
-### ⚔ Algorithm Solve ⚔	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daneng4)](https://solved.ac/daneng4/)
-  
-  <br>
-</div>
+### 🚀 경력 🚀
+**슈어소프트테크** <br>
+차량솔루션개발1팀 인턴 <br>
+2025.07 ~ 2025.11 <br>
+
 	
 ### 🏆 Awards 🏆
 
@@ -28,6 +27,13 @@
 **2025.02.06 디지털하나로 최종 프로젝트 우수프로젝트상 (종합 1위) - 손주머니** &ensp; https://github.com/SonJuMoney
 
 <br>
+</div>
+	
+### ⚔ Algorithm Solve ⚔	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daneng4)](https://solved.ac/daneng4/)
+  
+  <br>
+</div>
 
 ### ✉️ Contact ✉️
 

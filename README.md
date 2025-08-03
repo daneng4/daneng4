@@ -1,19 +1,18 @@
-### 📚 학력 
+## 📚 학력 
   **한성대학교** <br>
   컴퓨터 공학과 졸업 (2018.03 ~ 2025.02) <br>
 
-### 🎲 활동 
+## 🎲 활동 
   **Digital Hanaro** <br>
   금융 서비스 개발 과정 (2024.08 ~ 2025.02) <br>
   **최우수** 수료 <br>
 
-### 🚀 경력 
+## 🚀 경력 
 **슈어소프트테크** <br>
-차량솔루션개발1팀 인턴 <br>
-2025.07 ~ 2025.11 <br>
+차량솔루션개발팀 - 인턴 (2025.07 ~ 2025.11) <br>
 
 	
-### 🏆 Awards 🏆
+## 🏆 수상이력 🏆
 
  **2023.07.07 한국지식정보기술학회 융복합 우수 논문 수상 - MurerBot** &ensp; [MURERBOT 구조 설명 및 향후 활용 방안.pdf](https://github.com/daneng4/daneng4/files/13226541/MURERBOT.pdf) 
 <br>
@@ -25,17 +24,14 @@
 <br>
 <br>
 **2025.02.06 디지털하나로 최종 프로젝트 우수프로젝트상 (종합 1위) - 손주머니** &ensp; https://github.com/SonJuMoney
-
-<br>
-</div>
 	
-### ⚔ Algorithm Solve ⚔	
+## ⚔ 알고리즘 ⚔	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daneng4)](https://solved.ac/daneng4/)
   
   <br>
 </div>
 
-### ✉️ Contact ✉️
+## ✉️ Contact ✉️
 
 E-Mail : `daneng4@naver.com` <br>
 IT-Blog : https://daneng4-codingstory.tistory.com/ 
